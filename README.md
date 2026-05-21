@@ -4,21 +4,21 @@ Esse foi um projeto que desenvolvi para praticar Java com integração ao MySQL 
 
 A ideia foi criar um sistema simples de gerenciamento de tarefas funcionando pelo terminal, colocando em prática operações CRUD e melhorando minha organização de código no back-end.
 
-# Funcionalidades
+<h2> Funcionalidades </h2>
 
 Cadastrar tarefas
 Listar tarefas
 Atualizar status
 Excluir tarefas
 
-#Tecnologias utilizadas
+<h2> Tecnologias utilizadas </h2>
 
 Java
 MySQL
 JDBC
 Git/GitHub
 
-#Estrutura do projeto
+<h2> Estrutura do projeto </h2>
 
 src/
 ├── connection/
@@ -26,7 +26,7 @@ src/
 ├── model/
 └── App.java
 
-# Banco de dados
+<h2> Banco de dados </h2>
 
 CREATE DATABASE task_manager;
 
@@ -41,13 +41,15 @@ CREATE TABLE tasks (
 
 );
 
-#Como executar
+<h2> Como executar </h2>
 
 1 - Clone o repositório --> git clone https://github.com/seu-usuario/task-manager-java.git
+
 2 - Configure a conexão com o MySQL no ConnectionFactory.java
+
 3 - Execute o App.java
 
-# O que aprendi com esse projeto
+<h2> O que aprendi com esse projeto </h2>
 
 Durante o desenvolvimento consegui praticar:
 
