@@ -6,7 +6,7 @@ A ideia foi criar um sistema simples de gerenciamento de tarefas funcionando pel
 
 ---
 
-<h2> 📌Funcionalidades </h2>
+<h2> Funcionalidades </h2>
 
 Cadastrar tarefas
 Listar tarefas
@@ -15,7 +15,7 @@ Excluir tarefas
 
 ---
 
-<h2>💻 Tecnologias utilizadas </h2>
+<h2> Tecnologias utilizadas </h2>
 
 Java
 MySQL
@@ -24,7 +24,7 @@ Git/GitHub
 
 ---
 
-<h2>📁 Estrutura do projeto </h2>
+<h2> Estrutura do projeto </h2>
 
 src/
 ├── connection/
@@ -34,7 +34,7 @@ src/
 
 ---
 
-<h2>📊 Banco de dados </h2>
+<h2>  Banco de dados </h2>
 
 CREATE DATABASE task_manager;
 
@@ -61,7 +61,7 @@ CREATE TABLE tasks (
 
 ---
 
-<h2>🧠 O que aprendi com esse projeto </h2>
+<h2> O que aprendi com esse projeto </h2>
 
 Durante o desenvolvimento consegui praticar:
 
