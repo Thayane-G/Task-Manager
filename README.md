@@ -26,11 +26,11 @@ A ideia foi criar um sistema simples de gerenciamento de tarefas funcionando pel
 
 <h2> Estrutura do projeto </h2>
 
-src/
-├── connection/
-├── dao/
-├── model/
-└── App.java
+src/ <br>
+├── connection/ <br>
+├── dao/ <br>
+├── model/ <br>
+└── App.java 
 
 ---
 
